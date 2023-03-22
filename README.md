@@ -7,3 +7,4 @@ Sau khi một thằng bạn của tôi không tin rằng, sự chia sẻ của m
 - Website được thiết kế để có thể đặt lịch, quản lý khác hàng, quản lý máy ảo có sẵn trên máy, xác thực hai lớp (QR, sms, nhắn tin)
 - Hệ thống máy ảo Hyper-V sẽ được sử dụng, quản lý, tạo các máy ảo từ công cụ [jamesstringerparsec/Easy-GPU-PV](https://github.com/jamesstringerparsec/Easy-GPU-PV)
 # Ủng hộ dự án
+[PlayerDuo](https://playerduo.com/donatenvietuk)
